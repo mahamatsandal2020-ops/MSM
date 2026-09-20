@@ -1,4 +1,4 @@
 # MSM
 First  Project
 To understand 
-Git and Github
+Git and Github well
